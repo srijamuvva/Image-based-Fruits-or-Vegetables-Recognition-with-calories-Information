@@ -1,5 +1,5 @@
 # Machine-Learning-Image-based-Fruits-and-Vegetables-Recognition-with-calories-
-                                   ` **ABSTRACT**`
+                                   **`ABSTRACT`**
 
 This project introduces a lightweight deep learning model for fruit and vegetable recognition,
 combining a modified MobileNetV2 architecture with an attention module. The model begins by
