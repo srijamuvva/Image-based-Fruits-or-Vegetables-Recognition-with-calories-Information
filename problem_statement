@@ -1,0 +1,4 @@
+In an era where nutritional awareness is paramount, there is a lack of accessible tools that can efficiently identify fruits and vegetables and provide accurate nutritional information.
+This project addresses this gap by developing a web application that uses machine learning and computer vision to classify images of fruits and vegetables and calculate
+their calorie content,
+offering users an easy and accurate way to track their nutritional intake.
